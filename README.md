@@ -96,4 +96,5 @@ Steps taken to prepare the data:
 ## 📌 Conclusion
 This analysis provides actionable intelligence to Palmoria’s leadership. Addressing the highlighted disparities and compliance issues will help foster a more equitable, transparent, and high-performing workplace.
 
-
+### Back to top 
+###### [Table of Content](#Table-of-Content)
