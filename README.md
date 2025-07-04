@@ -1,5 +1,5 @@
 ## Palmora Group HR Aalysis
-!
+![Palmora-group](Palmora-group.jpg)
 
 # Palmoria Company: Employee Data Analysis Report
 
