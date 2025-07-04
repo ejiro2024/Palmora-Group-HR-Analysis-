@@ -3,6 +3,18 @@
 
 # Palmoria Company: Employee Data Analysis Report
 
+## Table of Content
+
+- [Introduction](#Introduction)
+- [Project Overview](#Project-Overview)
+- [Data source](#Data-source)
+- [Tools used](#Tools-used)
+- [Data Analysis](#Data-Analysis)
+- [Visualisations](#Visualisations)
+- [Key Insights](Key-Insights)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+
 ## 📌 Introduction
 This report provides insights into the employee structure at **Palmoria**, with a primary focus on gender-based analysis across departments and locations. It also includes evaluations of salary distributions, regulatory compliance, and bonus allocation.
 
@@ -64,6 +76,8 @@ Steps taken to prepare the data:
 - **Total Pay = Salary + Bonus**
 - Aggregated total bonus payout by region and for the entire company.
 - Charts: Bonus distribution by rating and region.
+
+## Visualisations
 
 ## 📈 Insights Summary
 - **Gender Imbalance** in Legal and Support departments where one gender dominates.
