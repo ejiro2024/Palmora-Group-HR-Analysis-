@@ -31,10 +31,11 @@ The dataset was given by the DSA team and includes the following fields:
 
 ## Data Cleaning
 Steps taken to prepare the data:
-1. Removed employees with missing salary (assumed no longer with the company).
-2. Removed records with null departments.
-3. Assigned "Undisclosed" gender status to missing gender values.
-4. Standardized text fields (e.g., trimmed whitespace).
+- Removed duplicate value from the data by using the remove duplicate under the data tab
+- Removed employees with missing salary (assumed no longer with the company).
+- Removed records with null departments.
+- Assigned "Undisclosed" gender status to missing gender values.
+- Standardized text fields (e.g., trimmed whitespace).
 
 ## Data Analysis & Visualizations
 
