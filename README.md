@@ -39,7 +39,8 @@ Steps taken to prepare the data:
 - Removed employees with missing salary (assumed no longer with the company).
 - Removed records with null departments.
 - Assigned "Undisclosed" gender status to missing gender values by using ctrl + H
-
+  
+![udisclosed](udisclosed.PNG)
   
 - Standardized text fields (e.g., trimmed whitespace).
 
