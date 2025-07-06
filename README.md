@@ -22,7 +22,7 @@ This report provides insights into the employee structure at **Palmoria**, with 
 Palmoria's management seeks to understand employee distribution, identify potential gender pay gaps, assess regulatory salary compliance, and allocate bonuses based on performance ratings. This analysis serves as a tool for improved decision-making and HR policy enhancements.
 
 ## Data Source
-The dataset was extracted from Palmoria's internal employee records and includes the following fields:
+The dataset was given by the DSA team and includes the following fields:
 - **Name**
 - **Gender**
 - **Department**
