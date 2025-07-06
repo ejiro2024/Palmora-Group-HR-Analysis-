@@ -79,7 +79,7 @@ Steps taken to prepare the data:
 
 ## Visualisations
 
-## Insights Summary
+## Key Insights 
 - **Gender Imbalance** in Legal and Support departments where one gender dominates.
 - **Undisclosed Gender** cases should be addressed through updated HR profiling.
 - **Significant Pay Gap** in Engineering and Support departments in Kaduna.
