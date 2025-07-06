@@ -46,7 +46,7 @@ Steps taken to prepare the data:
 
 ## Data Analysis & Visualizations
 
-Imported the data into Power Bi by using get data
+**Imported the data into Power Bi by using get data**
 
 ### 1. Gender Distribution in the Organization
 - A bar chart shows the total number of employees by gender by dragging into the respective spaces
