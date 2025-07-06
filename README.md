@@ -11,7 +11,7 @@
 - [Tools used](#Tools-used)
 - [Data Analysis](#Data-Analysis)
 - [Visualisations](#Visualisations)
-- [Key Insights](Key-Insights)
+- [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
 - [Conclusion](#Conclusion)
 
