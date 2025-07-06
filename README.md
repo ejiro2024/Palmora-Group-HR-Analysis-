@@ -1,4 +1,4 @@
-## Palmora Group HR Aalysis
+## Palmoria Group HR Analysis
 ![Palmora-group](Palmora-group.jpg)
 
 # Palmoria Company: Employee Data Analysis Report
@@ -10,7 +10,6 @@
 - [Data source](#Data-source)
 - [Tools used](#Tools-used)
 - [Data Analysis](#Data-Analysis)
-- [Visualisations](#Visualisations)
 - [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
 - [Conclusion](#Conclusion)
@@ -32,15 +31,17 @@ The dataset was given by the DSA team and includes the following fields:
 
 ## Data Cleaning
 Steps taken to prepare the data:
-1. **Removed** employees with missing salary (assumed no longer with the company).
-2. **Removed** records with null departments.
-3. **Assigned** "Undisclosed" gender status to missing gender values.
-4. **Standardized** text fields (e.g., trimmed whitespace).
+1. Removed employees with missing salary (assumed no longer with the company).
+2. Removed records with null departments.
+3. Assigned "Undisclosed" gender status to missing gender values.
+4. Standardized text fields (e.g., trimmed whitespace).
 
 ## Data Analysis & Visualizations
 
+Imported the data into Power Bi by using get data
+
 ### 1. Gender Distribution in the Organization
-- A bar chart shows the total number of employees by gender.
+- A bar chart shows the total number of employees by gender by dragging into the respective spaces
 - Breakdown by **region** and **department** reveals localized trends in gender representation.
 
 ### 2. Rating Insights by Gender
@@ -49,8 +50,7 @@ Steps taken to prepare the data:
 
 ### 3. Salary Structure and Gender Pay Gap
 - **Average salary** by gender reveals a slight male bias in pay.
-- A breakdown by **department** and **location** shows departments where gaps are significant.
-- Chart: Boxplot of salary by gender and department.
+- A breakdown by **department** and **location** shows departments where gaps are significant using a Boxplot of salary by gender and department.
 
 ### 4. Regulatory Compliance Check
 - Regulation: Employees must earn **minimum $90,000**.
@@ -59,8 +59,7 @@ Steps taken to prepare the data:
 
 ### 5. Salary Band Distribution
 - Salary distribution in **$10,000 bands** (e.g., $40k-$50k, $50k-$60k, etc.).
-- Grouped by **region** to identify low and high earning zones.
-- Chart: Histogram or bar chart showing distribution.
+- Grouped by **region** to identify low and high earning zone by bar chart showing distribution.
 
 ### 6. Bonus Allocation Based on Rating
 
@@ -77,14 +76,12 @@ Steps taken to prepare the data:
 - Aggregated total bonus payout by region and for the entire company.
 - Charts: Bonus distribution by rating and region.
 
-## Visualisations
-
 ## Key Insights 
+
 - **Gender Imbalance** in Legal and Support departments where one gender dominates.
 - **Undisclosed Gender** cases should be addressed through updated HR profiling.
 - **Significant Pay Gap** in Engineering and Support departments in Kaduna.
 - **Non-Compliance** with salary regulation for 3 employees in Legal and Support.
-- **Bonus Payout**: Company to disburse a total of `$XX,XXX` as performance bonuses.
 
 ## Recommendations
 - Enforce equal opportunity policies in gender-imbalanced departments.
